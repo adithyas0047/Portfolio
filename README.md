@@ -22,7 +22,7 @@ Demo: https://portfolio-bay-one-61.vercel.app/
 - **Frontend:** React.js, JSX, CSS
 - **Routing:** React Router
 - **Notifications:** React Toastify
-- **Deployment:** (Netlify / Vercel / GitHub Pages – mention what you’ll use)
+- **Deployment:** Vercel
 
 ---
 
