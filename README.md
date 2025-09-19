@@ -33,7 +33,7 @@ portfolio/
 ├── src/
 │ ├── components/ # Reusable UI components
 │ │ └── ui/Toaster.jsx
-│ ├── pages/ # Main pages (Home, NotFound, etc.)
+│ ├── pages/ # Main pages (Home, NotFound)
 │ ├── App.jsx # Main app entry
 │ ├── index.jsx # Renders React app
 │ └── styles/ # CSS files
