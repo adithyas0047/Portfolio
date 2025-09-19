@@ -81,6 +81,10 @@ You can easily deploy on:
 - Blog/Articles section
 - Contact form with backend integration
 
+## 📸 Screenshot
+
+![Screenshot](./public/image.png)
+
 ## 👨‍💻 Author
 
 **Adithya S**
