@@ -27,7 +27,7 @@ Demo: https://portfolio-bay-one-61.vercel.app/
 ---
 
 ## 📂 Folder Structure
-
+```
 portfolio/
 ├── public/ # Static files
 ├── src/
@@ -38,7 +38,7 @@ portfolio/
 │ ├── index.jsx # Renders React app
 │ └── styles/ # CSS files
 └── package.json
-
+```
 ---
 
 ## ⚙️ Installation & Setup
