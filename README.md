@@ -22,23 +22,23 @@ Demo: https://portfolio-bay-one-61.vercel.app/
 - **Frontend:** React.js, JSX, CSS
 - **Routing:** React Router
 - **Notifications:** React Toastify
-- **Deployment:** (Netlify / Vercel / GitHub Pages – mention what you’ll use)
+- **Deployment:** Vercel
 
 ---
 
 ## 📂 Folder Structure
-
+```
 portfolio/
 ├── public/ # Static files
 ├── src/
 │ ├── components/ # Reusable UI components
 │ │ └── ui/Toaster.jsx
-│ ├── pages/ # Main pages (Home, NotFound, etc.)
+│ ├── pages/ # Main pages (Home, NotFound)
 │ ├── App.jsx # Main app entry
 │ ├── index.jsx # Renders React app
 │ └── styles/ # CSS files
 └── package.json
-
+```
 ---
 
 ## ⚙️ Installation & Setup
