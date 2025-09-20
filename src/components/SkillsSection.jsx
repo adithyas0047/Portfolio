@@ -30,7 +30,15 @@ const skills = [
   { name: "Linux", category: "OS" },
 ];
 
-const categories = ["All", "Frontend", "Backend", "tools", "OS", "Database"];
+const categories = [
+  "All",
+  "Frontend",
+  "Backend",
+  "tools",
+  "OS",
+  "Database",
+  "Programming language",
+];
 
 export default function SkillsSection() {
   const [activeCategory, setActiveCategory] = useState("All");
