@@ -3,6 +3,7 @@ import NotFound from "./pages/NotFound";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
+      <Analytics />
     </>
   );
 }
