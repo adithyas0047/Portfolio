@@ -67,7 +67,7 @@ portfolio/
 npm run build
 ```
 
-## Deploy the dist/ folder to your hosting platform (Netlify, Vercel, etc.).
+Deploy the dist/ folder to your hosting platform (Netlify, Vercel, etc.).
 
 ## 🚀 Deployment
 
