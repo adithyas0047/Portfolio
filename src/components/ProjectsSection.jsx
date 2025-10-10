@@ -61,6 +61,7 @@ const projects = [
       "Passport.js",
       "NewsApi.org",
     ],
+    demoUrl: "https://news-website-ashy-gamma.vercel.app/",
     githubUrl: "https://github.com/adithyas0047/News-Website",
   },
 ];
