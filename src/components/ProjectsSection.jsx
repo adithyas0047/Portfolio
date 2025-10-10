@@ -46,6 +46,23 @@ const projects = [
     ],
     githubUrl: "https://github.com/adithyas0047/loan-approval-prediction",
   },
+
+  {
+    id: 5,
+    title: "News Website",
+    description:
+      "Built a full-stack MERN app with Passport.js authentication and NewsAPI.org integration, achieving 98% login validation accuracy and 30% faster API response.",
+    image: "/projects/project5.png",
+    tags: [
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Passport.js",
+      "NewsApi.org",
+    ],
+    githubUrl: "https://github.com/adithyas0047/News-Website",
+  },
 ];
 
 export default function ProjectsSection() {
