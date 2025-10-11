@@ -51,7 +51,7 @@ const projects = [
     id: 5,
     title: "News Website",
     description:
-      "Designed and developed a full-stack news platform using React.js, Node.js, Express.js, and MongoDB. Implemented user authentication and session management with Passport.js to ensure secure login and registration. Integrated NewsAPI to fetch and display real-time global headlines dynamically on the homepage. Focused on creating a responsive, user-friendly interface that adapts across devices, providing an engaging and smooth reading experience.",
+      "Developed a full-stack news platform using React.js, Node.js, Express.js, and MongoDB. Integrated NewsAPI to display real-time global headlines and implemented secure user authentication with Passport.js. Designed a responsive interface for seamless browsing across devices.",
     image: "/projects/project5.png",
     tags: [
       "MongoDB",
