@@ -64,6 +64,16 @@ const projects = [
     demoUrl: "https://news-website-ashy-gamma.vercel.app/",
     githubUrl: "https://github.com/adithyas0047/News-Website",
   },
+
+  {
+    id: 6,
+    title: "Zerodha Clone",
+    description: "A full-stack Zerodha trading dashboard clone built using modern web technologies. This project replicates core features of portfolio tracking such as holdings, positions, orders, charts, and real-time-like UI updates.",
+    image: "/projects/project6.png",
+    tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Chart.js"],
+    githubUrl: "https://github.com/adithyas0047/Zerodha",
+    demoUrl: "https://zerodha-dusky.vercel.app/",
+  },
 ];
 
 export default function ProjectsSection() {
