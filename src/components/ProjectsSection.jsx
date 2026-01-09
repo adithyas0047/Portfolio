@@ -14,12 +14,12 @@ const projects = [
 
   {
     id: 2,
-    title: "Grocery Web Application",
+    title: "Game Launcher",
     description:
-      "Developed a responsive full stack grocery list web app with user authentication, real-time item management, and cost calculation. Built using HTML, CSS, JavaScript, and backend integration, achieving 92% form validation accuracy.",
-    image: "/projects/project2.jpg",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap CSS"],
-    githubUrl: "https://github.com/adithyas0047/Grocery-WebApp",
+      "Developed a standalone desktop Game Launcher using Electron.js, enabling users to add, launch, and manage games with a simple UI. Packaged as a Windows executable (.exe) for offline use.",
+    image: "/projects/project2_01.jpg",
+    tags: ["JavaScript", "Electron.js", "Bootstrap", "Node.js"],
+    githubUrl: "https://github.com/adithyas0047/Game-Launcher",
   },
 
   {
@@ -68,7 +68,8 @@ const projects = [
   {
     id: 6,
     title: "Zerodha Clone",
-    description: "A full-stack Zerodha trading dashboard clone built using modern web technologies. This project replicates core features of portfolio tracking such as holdings, positions, orders, charts, and real-time-like UI updates.",
+    description:
+      "A full-stack Zerodha trading dashboard clone built using modern web technologies. This project replicates core features of portfolio tracking such as holdings, positions, orders, charts, and real-time-like UI updates.",
     image: "/projects/project6.png",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Chart.js"],
     githubUrl: "https://github.com/adithyas0047/Zerodha",
