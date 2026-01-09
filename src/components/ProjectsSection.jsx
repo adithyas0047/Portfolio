@@ -17,7 +17,7 @@ const projects = [
     title: "Game Launcher",
     description:
       "Developed a standalone desktop Game Launcher using Electron.js, enabling users to add, launch, and manage games with a simple UI. Packaged as a Windows executable (.exe) for offline use.",
-    image: "/projects/screenshot.jpg",
+    image: "/projects/project2.png",
     tags: ["JavaScript", "Electron.js", "Bootstrap", "Node.js"],
     githubUrl: "https://github.com/adithyas0047/Game-Launcher",
   },
